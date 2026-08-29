@@ -24,6 +24,8 @@ education.
 
 ## What's in this repo
 - [Research Paper](https://github.com/sashakw1376/university-students-trust-in-genai/blob/main/cis4930final.pdf)
-- Presentation Slides
-- Presentation Video
-- Data (zip)
+- [Presentation Slides](https://github.com/sashakw1376/university-students-trust-in-genai/blob/main/Presentation%20Slides.pdf)
+- [Survey Data (zip)](https://github.com/sashakw1376/university-students-trust-in-genai/blob/main/survey_data.zip)
+
+## See more
+[Video Presentation](https://youtu.be/gqecqNYzPnY)
